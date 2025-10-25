@@ -4,6 +4,6 @@
   height: 200px;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, 1fr);
-  gap: 0; /* optional, ensures no spacing between cells */
-  border: 1px solid black; /* just for visualization */
+  gap: 0; 
+  border: 1px solid black; 
 }
